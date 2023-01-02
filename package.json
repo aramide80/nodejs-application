@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/aramide80/nodejs-application"
   },
   "keywords": [
     "node",
     "Landmark Technologies",
     "express"
   ],
-  "author": "Simon Legah",
+  "author": "Aramide",
   "license": "MyLandmarkTech"
 }
